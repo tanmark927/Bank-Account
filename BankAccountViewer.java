@@ -1,4 +1,3 @@
-package labEight;
 import javax.swing.JFrame;
 
 /**
