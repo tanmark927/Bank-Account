@@ -1,4 +1,3 @@
-package labEight;
 import javax.swing.*;
 
 public class BankAccountFrame extends JFrame
